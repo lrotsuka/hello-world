@@ -363,4 +363,5 @@ classdef card_thinkspeak_example < matlab.apps.AppBase
             delete(app.UIFigure)
         end
     end
+    hello!!
 end
